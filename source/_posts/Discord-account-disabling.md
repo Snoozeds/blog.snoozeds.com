@@ -4,6 +4,7 @@ date: 2023-10-21 00:12:00
 tags:
 - discord 
 - dankrpg
+alias: discord
 ---
 
 Here's some words from me about an ongoing situation with Discord, its effects on DankRPG, and more broadly Discord's moderation.
