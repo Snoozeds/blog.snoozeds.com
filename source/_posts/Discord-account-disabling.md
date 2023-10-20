@@ -1,7 +1,7 @@
 ---
 title: Discord account disabling.
 date: 2023-10-21 00:12:00
-tags:
+tags: discord, dankrpg
 ---
 
 Here's some words from me about an ongoing situation with Discord, it's effects on DankRPG, and more broadly Discord's moderation.
