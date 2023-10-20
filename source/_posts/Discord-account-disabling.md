@@ -6,7 +6,7 @@ tags:
 - dankrpg
 ---
 
-Here's some words from me about an ongoing situation with Discord, it's effects on DankRPG, and more broadly Discord's moderation.
+Here's some words from me about an ongoing situation with Discord, its effects on DankRPG, and more broadly Discord's moderation.
 
 # The issue:
 My main Discord account, snoozeds, has been indefinitely disabled because: 
