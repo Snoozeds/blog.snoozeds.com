@@ -7,6 +7,9 @@ tags:
 alias: discord/index.html
 ---
 
+## Update (21/10/23):
+Discord has responded. You may also see my response [here](https://blog.snoozeds.com/discord-update/).
+
 Here's some words from me about an ongoing situation with Discord, its effects on DankRPG, and more broadly Discord's moderation.
 
 # The issue:
