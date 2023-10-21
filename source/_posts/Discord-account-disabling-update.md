@@ -4,8 +4,7 @@ date: 2023-10-21 12:26:59
 tags:
 - discord
 - dankrpg
-alias:
-/discord-update/index.html
+alias: discord-update/index.html
 ---
 
 Earlier this morning, I wrote a post about how my Discord account got disabled over a simple joke saying I was negative 6 years old. A couple hours later, I actually did finally get a response. However, I cannot decide whether this is shocking because of the incompetence, or unsurprising because what else would this company do but this.
