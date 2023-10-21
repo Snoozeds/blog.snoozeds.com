@@ -1,5 +1,5 @@
 ---
-title: 'Discord account disabling: update'
+title: Discord account disabling update
 date: 2023-10-21 12:26:59
 tags:
 - discord
