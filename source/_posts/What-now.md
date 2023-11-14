@@ -33,6 +33,6 @@ A more heavily zoomed-in note using a custom Gtk theme with word wrapping enable
 A heavily zoomed-in note using the system's Gtk theme.
 ![](/images/03/03.png)
 
-### TL;DR:
+## TL;DR:
 - I'm working on a new open-source note-taking app called Yanta, built primarily for Linux, with plans for Windows support. It currently only supports *.txt files but may support other formats in the future.
 - Yanta uses Gtk, a simple UI library with cross-platform support, and has basic support for Gtk CSS themes.
